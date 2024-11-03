@@ -1,6 +1,7 @@
+
 .container{
     background-color: black;
-    color: white;
+    color: cyan;
     border-radius: 10px
 }
 button a{
@@ -8,7 +9,7 @@ button a{
     color: white;
 }
 
-login a{
+.login,a{
     text-decoration: none;
-    color: aqua;
+    color: cyan;
 }
