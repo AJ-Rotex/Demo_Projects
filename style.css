@@ -1,0 +1,14 @@
+.container{
+    background-color: black;
+    color: white;
+    border-radius: 10px
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+login a{
+    text-decoration: none;
+    color: aqua;
+}
